@@ -1,0 +1,7 @@
+192.168.235.128
+82.4.122.192
+
+sudo systemctl stop apache2
+sudo systemctl start apache2
+sudo systemctl restart apache2
+

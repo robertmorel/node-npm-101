@@ -1,0 +1,19 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "learning materials",
+  "main": "demo_readfile.js",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "jshint": "^2.9.6",
+    "mongodb": "^3.1.4",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
